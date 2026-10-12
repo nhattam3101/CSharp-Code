@@ -1,0 +1,15 @@
+E:\01_CODE\C#\learning\Bai02\bin\Debug\net10.0\Bai02.exe
+E:\01_CODE\C#\learning\Bai02\bin\Debug\net10.0\Bai02.deps.json
+E:\01_CODE\C#\learning\Bai02\bin\Debug\net10.0\Bai02.runtimeconfig.json
+E:\01_CODE\C#\learning\Bai02\bin\Debug\net10.0\Bai02.dll
+E:\01_CODE\C#\learning\Bai02\bin\Debug\net10.0\Bai02.pdb
+E:\01_CODE\C#\learning\Bai02\obj\Debug\net10.0\Bai02.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_CODE\C#\learning\Bai02\obj\Debug\net10.0\Bai02.AssemblyInfoInputs.cache
+E:\01_CODE\C#\learning\Bai02\obj\Debug\net10.0\Bai02.AssemblyInfo.cs
+E:\01_CODE\C#\learning\Bai02\obj\Debug\net10.0\Bai02.csproj.CoreCompileInputs.cache
+E:\01_CODE\C#\learning\Bai02\obj\Debug\net10.0\Bai02.dll
+E:\01_CODE\C#\learning\Bai02\obj\Debug\net10.0\refint\Bai02.dll
+E:\01_CODE\C#\learning\Bai02\obj\Debug\net10.0\Bai02.pdb
+E:\01_CODE\C#\learning\Bai02\obj\Debug\net10.0\Bai02.genruntimeconfig.cache
+E:\01_CODE\C#\learning\Bai02\obj\Debug\net10.0\ref\Bai02.dll
+E:\01_CODE\C#\learning\Bai02\obj\Debug\net10.0\Bai02.csproj.Up2Date

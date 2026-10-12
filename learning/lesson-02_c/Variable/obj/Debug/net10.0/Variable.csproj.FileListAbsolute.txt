@@ -1,0 +1,14 @@
+E:\01_CODE\C#\learning\lesson-02_c\Variable\obj\Debug\net10.0\Variable.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_CODE\C#\learning\lesson-02_c\Variable\obj\Debug\net10.0\Variable.AssemblyInfoInputs.cache
+E:\01_CODE\C#\learning\lesson-02_c\Variable\obj\Debug\net10.0\Variable.AssemblyInfo.cs
+E:\01_CODE\C#\learning\lesson-02_c\Variable\obj\Debug\net10.0\Variable.csproj.CoreCompileInputs.cache
+E:\01_CODE\C#\learning\lesson-02_c\Variable\bin\Debug\net10.0\Variable.exe
+E:\01_CODE\C#\learning\lesson-02_c\Variable\bin\Debug\net10.0\Variable.deps.json
+E:\01_CODE\C#\learning\lesson-02_c\Variable\bin\Debug\net10.0\Variable.runtimeconfig.json
+E:\01_CODE\C#\learning\lesson-02_c\Variable\bin\Debug\net10.0\Variable.dll
+E:\01_CODE\C#\learning\lesson-02_c\Variable\bin\Debug\net10.0\Variable.pdb
+E:\01_CODE\C#\learning\lesson-02_c\Variable\obj\Debug\net10.0\Variable.dll
+E:\01_CODE\C#\learning\lesson-02_c\Variable\obj\Debug\net10.0\refint\Variable.dll
+E:\01_CODE\C#\learning\lesson-02_c\Variable\obj\Debug\net10.0\Variable.pdb
+E:\01_CODE\C#\learning\lesson-02_c\Variable\obj\Debug\net10.0\Variable.genruntimeconfig.cache
+E:\01_CODE\C#\learning\lesson-02_c\Variable\obj\Debug\net10.0\ref\Variable.dll

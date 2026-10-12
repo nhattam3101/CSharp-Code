@@ -1,0 +1,14 @@
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\bin\Debug\net10.0\lesson-02_c.exe
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\bin\Debug\net10.0\lesson-02_c.deps.json
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\bin\Debug\net10.0\lesson-02_c.runtimeconfig.json
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\bin\Debug\net10.0\lesson-02_c.dll
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\bin\Debug\net10.0\lesson-02_c.pdb
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\obj\Debug\net10.0\lesson-02_c.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\obj\Debug\net10.0\lesson-02_c.AssemblyInfoInputs.cache
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\obj\Debug\net10.0\lesson-02_c.AssemblyInfo.cs
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\obj\Debug\net10.0\lesson-02_c.csproj.CoreCompileInputs.cache
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\obj\Debug\net10.0\lesson-02_c.dll
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\obj\Debug\net10.0\refint\lesson-02_c.dll
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\obj\Debug\net10.0\lesson-02_c.pdb
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\obj\Debug\net10.0\lesson-02_c.genruntimeconfig.cache
+E:\01_CODE\C#\learning\lesson-02_c\lesson-02_c\obj\Debug\net10.0\ref\lesson-02_c.dll

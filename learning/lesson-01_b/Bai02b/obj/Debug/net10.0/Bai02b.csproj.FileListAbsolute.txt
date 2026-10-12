@@ -1,0 +1,14 @@
+E:\01_CODE\C#\Bai02b\Bai02b\bin\Debug\net10.0\Bai02b.exe
+E:\01_CODE\C#\Bai02b\Bai02b\bin\Debug\net10.0\Bai02b.deps.json
+E:\01_CODE\C#\Bai02b\Bai02b\bin\Debug\net10.0\Bai02b.runtimeconfig.json
+E:\01_CODE\C#\Bai02b\Bai02b\bin\Debug\net10.0\Bai02b.dll
+E:\01_CODE\C#\Bai02b\Bai02b\bin\Debug\net10.0\Bai02b.pdb
+E:\01_CODE\C#\Bai02b\Bai02b\obj\Debug\net10.0\Bai02b.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_CODE\C#\Bai02b\Bai02b\obj\Debug\net10.0\Bai02b.AssemblyInfoInputs.cache
+E:\01_CODE\C#\Bai02b\Bai02b\obj\Debug\net10.0\Bai02b.AssemblyInfo.cs
+E:\01_CODE\C#\Bai02b\Bai02b\obj\Debug\net10.0\Bai02b.csproj.CoreCompileInputs.cache
+E:\01_CODE\C#\Bai02b\Bai02b\obj\Debug\net10.0\Bai02b.dll
+E:\01_CODE\C#\Bai02b\Bai02b\obj\Debug\net10.0\refint\Bai02b.dll
+E:\01_CODE\C#\Bai02b\Bai02b\obj\Debug\net10.0\Bai02b.pdb
+E:\01_CODE\C#\Bai02b\Bai02b\obj\Debug\net10.0\Bai02b.genruntimeconfig.cache
+E:\01_CODE\C#\Bai02b\Bai02b\obj\Debug\net10.0\ref\Bai02b.dll
