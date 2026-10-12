@@ -1,0 +1,15 @@
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\bin\Debug\net10.0\Poem.exe
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\bin\Debug\net10.0\Poem.deps.json
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\bin\Debug\net10.0\Poem.runtimeconfig.json
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\bin\Debug\net10.0\Poem.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\bin\Debug\net10.0\Poem.pdb
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\obj\Debug\net10.0\Poem.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\obj\Debug\net10.0\Poem.AssemblyInfoInputs.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\obj\Debug\net10.0\Poem.AssemblyInfo.cs
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\obj\Debug\net10.0\Poem.csproj.CoreCompileInputs.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\obj\Debug\net10.0\Poem.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\obj\Debug\net10.0\refint\Poem.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\obj\Debug\net10.0\Poem.pdb
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\obj\Debug\net10.0\Poem.genruntimeconfig.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\obj\Debug\net10.0\ref\Poem.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\MyLibrary\Poem\obj\Debug\net10.0\Poem.csproj.Up2Date

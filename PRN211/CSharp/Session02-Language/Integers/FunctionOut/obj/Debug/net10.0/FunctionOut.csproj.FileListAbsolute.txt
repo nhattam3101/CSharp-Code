@@ -1,0 +1,15 @@
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\bin\Debug\net10.0\FunctionOut.exe
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\bin\Debug\net10.0\FunctionOut.deps.json
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\bin\Debug\net10.0\FunctionOut.runtimeconfig.json
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\bin\Debug\net10.0\FunctionOut.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\bin\Debug\net10.0\FunctionOut.pdb
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\obj\Debug\net10.0\FunctionOut.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\obj\Debug\net10.0\FunctionOut.AssemblyInfoInputs.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\obj\Debug\net10.0\FunctionOut.AssemblyInfo.cs
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\obj\Debug\net10.0\FunctionOut.csproj.CoreCompileInputs.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\obj\Debug\net10.0\FunctionOut.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\obj\Debug\net10.0\refint\FunctionOut.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\obj\Debug\net10.0\FunctionOut.pdb
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\obj\Debug\net10.0\FunctionOut.genruntimeconfig.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\obj\Debug\net10.0\ref\FunctionOut.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionOut\obj\Debug\net10.0\Function.FB29DC8D.Up2Date

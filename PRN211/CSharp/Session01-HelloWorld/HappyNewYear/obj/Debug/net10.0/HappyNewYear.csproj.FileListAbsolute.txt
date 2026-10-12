@@ -1,0 +1,14 @@
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\bin\Debug\net10.0\HappyNewYear.exe
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\bin\Debug\net10.0\HappyNewYear.deps.json
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\bin\Debug\net10.0\HappyNewYear.runtimeconfig.json
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\bin\Debug\net10.0\HappyNewYear.dll
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\bin\Debug\net10.0\HappyNewYear.pdb
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net10.0\HappyNewYear.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net10.0\HappyNewYear.AssemblyInfoInputs.cache
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net10.0\HappyNewYear.AssemblyInfo.cs
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net10.0\HappyNewYear.csproj.CoreCompileInputs.cache
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net10.0\HappyNewYear.dll
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net10.0\refint\HappyNewYear.dll
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net10.0\HappyNewYear.pdb
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net10.0\HappyNewYear.genruntimeconfig.cache
+E:\01_CODE\PRN211\CSharp\Session01-HelloWorld\HappyNewYear\obj\Debug\net10.0\ref\HappyNewYear.dll

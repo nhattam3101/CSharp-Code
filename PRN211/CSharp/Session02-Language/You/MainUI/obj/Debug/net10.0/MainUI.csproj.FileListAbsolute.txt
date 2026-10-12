@@ -1,0 +1,15 @@
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\obj\Debug\net10.0\MainUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\obj\Debug\net10.0\MainUI.AssemblyInfoInputs.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\obj\Debug\net10.0\MainUI.AssemblyInfo.cs
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\obj\Debug\net10.0\MainUI.csproj.CoreCompileInputs.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\bin\Debug\net10.0\MainUI.exe
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\bin\Debug\net10.0\MainUI.deps.json
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\bin\Debug\net10.0\MainUI.runtimeconfig.json
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\bin\Debug\net10.0\MainUI.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\bin\Debug\net10.0\MainUI.pdb
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\obj\Debug\net10.0\MainUI.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\obj\Debug\net10.0\refint\MainUI.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\obj\Debug\net10.0\MainUI.pdb
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\obj\Debug\net10.0\MainUI.genruntimeconfig.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\obj\Debug\net10.0\ref\MainUI.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\MainUI\obj\Debug\net10.0\MainUI.csproj.Up2Date

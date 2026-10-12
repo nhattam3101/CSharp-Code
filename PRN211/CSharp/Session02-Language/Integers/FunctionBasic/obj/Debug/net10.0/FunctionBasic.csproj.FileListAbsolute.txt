@@ -1,0 +1,15 @@
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\obj\Debug\net10.0\FunctionBasic.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\obj\Debug\net10.0\FunctionBasic.AssemblyInfoInputs.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\obj\Debug\net10.0\FunctionBasic.AssemblyInfo.cs
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\obj\Debug\net10.0\FunctionBasic.csproj.CoreCompileInputs.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\bin\Debug\net10.0\FunctionBasic.exe
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\bin\Debug\net10.0\FunctionBasic.deps.json
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\bin\Debug\net10.0\FunctionBasic.runtimeconfig.json
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\bin\Debug\net10.0\FunctionBasic.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\bin\Debug\net10.0\FunctionBasic.pdb
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\obj\Debug\net10.0\FunctionBasic.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\obj\Debug\net10.0\refint\FunctionBasic.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\obj\Debug\net10.0\FunctionBasic.pdb
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\obj\Debug\net10.0\FunctionBasic.genruntimeconfig.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\obj\Debug\net10.0\ref\FunctionBasic.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\Integers\FunctionBasic\obj\Debug\net10.0\Function.582E9020.Up2Date

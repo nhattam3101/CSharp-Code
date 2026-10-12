@@ -1,0 +1,14 @@
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\bin\Debug\net10.0\Bmi.deps.json
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\bin\Debug\net10.0\Bmi.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\bin\Debug\net10.0\Bmi.pdb
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\bin\Debug\net10.0\Bmi.xml
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\obj\Debug\net10.0\Bmi.GeneratedMSBuildEditorConfig.editorconfig
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\obj\Debug\net10.0\Bmi.AssemblyInfoInputs.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\obj\Debug\net10.0\Bmi.AssemblyInfo.cs
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\obj\Debug\net10.0\Bmi.csproj.CoreCompileInputs.cache
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\obj\Debug\net10.0\Bmi.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\obj\Debug\net10.0\refint\Bmi.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\obj\Debug\net10.0\Bmi.xml
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\obj\Debug\net10.0\Bmi.pdb
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\obj\Debug\net10.0\ref\Bmi.dll
+E:\01_CODE\PRN211\CSharp\Session02-Language\You\Bmi\obj\Debug\net10.0\Bmi.csproj.Up2Date

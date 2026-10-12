@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\01_CODE\\PRN211\\CSharp\\Session02-Language\\DllUsage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE58AAB4-0F9A-4AAA-98CE-531130ACEC64}|BmiTester\\BmiTester.csproj|e:\\01_code\\prn211\\csharp\\session02-language\\dllusage\\bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE58AAB4-0F9A-4AAA-98CE-531130ACEC64}|BmiTester\\BmiTester.csproj|solutionrelative:bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\01_CODE\\PRN211\\CSharp\\Session02-Language\\DllUsage\\BmiTester\\Program.cs",
+              "RelativeDocumentMoniker": "BmiTester\\Program.cs",
+              "ToolTip": "E:\\01_CODE\\PRN211\\CSharp\\Session02-Language\\DllUsage\\BmiTester\\Program.cs",
+              "RelativeToolTip": "BmiTester\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-03T06:47:27.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
